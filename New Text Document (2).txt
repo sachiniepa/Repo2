@@ -1,0 +1,6 @@
+https://docker-curriculum.com/#getting-started
+
+https://www.tutorialspoint.com/docker/installing_docker_on_linux.htm
+
+https://www.youtube.com/watch?v=JprTjTViaEA
+
